@@ -6,6 +6,7 @@ SalesByCategView.render = (data) => {
 
   JSC.chart('salesbycateg', {
     type: 'radar area',
+    debug: false,
     legend_visible: true,
     legend: { template: '%icon %name', position: 'inside right', layout: 'vertical' },
     animation_duration: 500,
