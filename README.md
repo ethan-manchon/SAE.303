@@ -1,6 +1,6 @@
-# 🛒 Développement d'un Site E-Commerce
+# 📊 Visualisation de Données avec JSCharting
 
-Développement d'un site de commerce en ligne dans le cadre d'un projet scolaire, intégrant une gestion des produits, des utilisateurs et des commandes.
+Développement d'un projet scolaire axé sur la **visualisation et l'analyse de données** à l'aide de **JSCharting**, en représentant l'information sous forme de nombreux graphiques interactifs.
 
 ## 🚀 Installation
 
@@ -12,21 +12,17 @@ Développement d'un site de commerce en ligne dans le cadre d'un projet scolaire
 
 ## 🎯 Objectif du Projet
 
-Ce projet s'inspire du concept **Inspiration Made**, visant à développer une plateforme e-commerce dynamique et fluide, permettant aux utilisateurs de consulter des produits, les ajouter à un panier et finaliser leurs achats en ligne.
-
-Ce projet vise à développer une plateforme e-commerce complète, permettant aux utilisateurs de consulter des produits, les ajouter à un panier et finaliser leurs achats en ligne.
+Ce projet a pour but d'explorer et d'afficher des données sous forme de **graphiques dynamiques**, afin de faciliter l'analyse et l'interprétation des informations de manière visuelle et interactive.
 
 ## 🛠 Technologies utilisées
 
-- 🐘 **PHP / API REST** – Gestion du backend et de l'API<br>
-- 🛢 **MySQL ** – Base de données pour stocker les informations produits et utilisateurs<br>
-- 🌍 **HTML, CSS, JavaScript** – Interface utilisateur et interactions<br>
-- ⚡ **Vite/Webpack** – Développement rapide et optimisation<br>
+- 📊 **JSCharting** – Librairie JavaScript avancée pour la création de graphiques interactifs<br>
+- 🌍 **HTML, CSS, JavaScript** – Interface utilisateur et gestion des données<br>
+- ⚡ **Live Server** – Pour un rechargement rapide des modifications<br>
 
+## ✨ Fonctionnalités
 
-## ✨ Fonctionnalités<br>
-
-✅ Gestion des produits et des catégories<br>
-✅ Système d'authentification et gestion des utilisateurs<br>
-✅ Ajout de produits au panier et commande en ligne<br>
-✅ Interface fluide et ergonomique<br>
+✅ Création de **graphiques variés** : barres, lignes, camemberts, histogrammes, etc.<br>
+✅ **Filtrage et tri** des données en temps réel<br>
+✅ **Interactivité avancée** : zoom, survol, mise à jour dynamique<br>
+✅ Gestion des **données volumineuses** avec performances optimisées<br>
